@@ -1,0 +1,12 @@
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.csprojAssemblyReference.cache
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.Form1.resources
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.Properties.Resources.resources
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.csproj.GenerateResource.cache
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.csproj.CoreCompileInputs.cache
+C:\Users\remote-storage\Desktop\TDESRSA\bin\Debug\TDESRSA.exe.config
+C:\Users\remote-storage\Desktop\TDESRSA\bin\Debug\TDESRSA.exe
+C:\Users\remote-storage\Desktop\TDESRSA\bin\Debug\TDESRSA.pdb
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.exe
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.pdb
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.RSA.resources
+C:\Users\remote-storage\Desktop\TDESRSA\obj\Debug\TDESRSA.TDES.resources
